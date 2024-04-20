@@ -60,8 +60,8 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              Currently I'm pursuing my master's in computer applications at
-              Amal Jyothi College of Engineering, I'm deeply engrossed in the
+              Currently I&apos;m pursuing my master&apos;s in computer applications at
+              Amal Jyothi College of Engineering, I&apos;m deeply engrossed in the
               world of technology and cybersecurity.
             </p>
             <br />
@@ -69,14 +69,14 @@ const AboutSection = () => {
               Beyond that, I immerse myself in the world of cybersecurity and
               financial markets. Cybersecurity has always captivated me; it was
               my gateway into the world of Information Technology, and now, with
-              over four years of experience in trading financial markets, I'm
+              over four years of experience in trading financial markets, I&apos;m
               equally immersed in the dynamic worlds of technology and finance.
             </p>
             <br />
             <p>
               I believe in constant evolution and thrive on pushing boundaries
               in the digital realm. Eagerly embracing new challenges and
-              opportunities, I'm charting a course to redefine possibilities in
+              opportunities, I&apos;m charting a course to redefine possibilities in
               technology, one line of code at a time.
             </p>
           </div>
